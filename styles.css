@@ -1,0 +1,13 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+
+
+p {
+  background: blue;
+  font-size: 3rem;
+  width: 400px;
+  margin: 50px auto;
+  font: monospace;
+}
